@@ -6,7 +6,7 @@ Processing data:
 - Use Fourier Transform
 - Define Value of Anpha,Beta,Gamma Delta ....
 - Return the target Table include parameters : alpha,	delta,	beta,	gamma,	state,	channel,	subject.
-  ##NOTE :
+##NOTE :
   1-'ED_COUNTER'
 2-'ED_INTERPOLATED'
 3-'ED_RAW_CQ'
