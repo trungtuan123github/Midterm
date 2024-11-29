@@ -35,3 +35,8 @@ Processing data:
 25'ED_SYNC_SIGNAL'
 
 *The EEG data is in the channels 4:17.
+## step2 
+Hoàng đóng gói lại chương trình để xuất ra data (Thống nhất cấu trúc file csv là các band sóng rồi tới channel rồi tới state ) 
+Phúc-Hoàng nghiên cứu thêm feature 
+Tuấn đóng gói model Logistics, SVM, boosting 
+Anh Cát train model phân loại trên data raw với model Neural Network để phân loại 
